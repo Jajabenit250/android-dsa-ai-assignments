@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student Profile App</string>
+    <string name="title">Student Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="registration">Registration Number</string>
+    <string name="programme">Programme</string>
+    <string name="submit">Submit</string>
+    <string name="required">Please complete this field.</string>
+    <string name="profile">Welcome, %1$s!\nRegistration Number: %2$s\nProgramme: %3$s</string>
+</resources>

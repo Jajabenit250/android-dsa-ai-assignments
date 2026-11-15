@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application' version '7.3.1'
+    id 'org.jetbrains.kotlin.android' version '1.7.20'
+}
+
+android {
+    namespace 'rw.mku.studentprofile'
+    compileSdk 33
+    defaultConfig {
+        applicationId 'rw.mku.studentprofile'
+        minSdk 23
+        targetSdk 33
+        versionCode 1
+        versionName '1.0'
+    }
+}
